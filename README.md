@@ -1,8 +1,10 @@
 <h2 align="center">Howdy, I'm James.</h2>
 
-<figure align="center">
-  <img src="./me_and_ladder.jpg" alt="The Best Picture of me and a ladder"><figcaption><i>The best picture of me with a ladder.</i></figcaption>
-</figure>
+<p align="center">
+  <img src="./me_and_ladder.jpg" alt="The Best Picture of me and a ladder">
+</p>
+  
+<p align="center"><i>The best picture of me with a ladder.</i></p>
 
 I'm a data science software engineer from New Jersey livin' it up in Chicago because I love being cold.
 
