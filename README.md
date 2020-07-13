@@ -1,7 +1,7 @@
 <h2 align="center">Howdy, I'm James.</h2>
 
 <p align="center">
-  <img src="./me_and_ladder.jpg" alt="The Best Picture of me and a ladder">
+  <img src="https://github.com/jsal13/jsal13/blob/master/me_and_ladder.jpg" alt="The Best Picture of me and a ladder">
 </p>
   
 <p align="center"><i>The best picture of me with a ladder.</i></p>
