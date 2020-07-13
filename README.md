@@ -24,6 +24,7 @@ I'm a data science software engineer from New Jersey livin' it up in Chicago bec
 - Working through measure theroy stuff via stats is pretty wild; the proofs take me forever, but it's fun.
 - Pretty much any proof-based math is fun to dive into. If you got some proof-based stuff you dig, I'll check it out.
   - No one who has claimed to solve Riemann or has a "counterexample" to the Fermat's Last Theorem proof pls
+  - I also don't want you trying to get me to write you an ai program to cheat at blackjack or whatever (this request happens more frequently than you'd think)
 
 #### :sweat_drops: I'm currently workin' with travel data, doing some data science / data engineering work.
 
