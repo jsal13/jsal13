@@ -4,30 +4,22 @@
   <img src="https://github.com/jsal13/jsal13/blob/master/me_and_ladder.jpg" alt="The Best Picture of me and a ladder">
 </p>
   
-<p align="center"><i>The best picture of me with a ladder.</i></p>
+<p align="center"><i>The best picture of me that also has a ladder in it.</i></p>
 
-I'm a data science software engineer from New Jersey livin' it up in Chicago because I love being cold.
+I'm a Data Scientist / Software Engineer in Chicago.
 
-#### :sleeping_bed: My fav things to do are:
+#### :sleeping_bed: What kind'a stuff do I like to work with?
 
-- Python
-- Math
-- Data Analytics
-- `~*just devops-y things*~`
-- Side projects I start, don't finish, then delete the repo 2 years later
-- The Legend of Zelda: A Link to the Past Randomizer. Look this up, it's real fun.
-- I bike around town sometimes.
+- **Math**: Stats, Linear Algebra, Multi/Single var Calc, all that fun applied stuff.
+- **Data**: Big into open data, hard-to-parse data, cryptic (!!) data, etc.  Both creating dbs / data warehouses for it and doing analysis on it.  Data's the future, y'all.
+- **Devops Stuff**: AWS, GCP.  Containerization, Pipelining.  Depending on the project, I like to have my things either living in a container or have a terraform to build it up on AWS.  It's important to have a model-to-deploy pipeline in data science!
+- **Gamedev**: A new one!  I started on gamedev during a sabbatical I took in 2021, mostly focusing on Unity.  I messed around with Godot, GameMaker, and a few others, but Unity felt right.  My gamejam games can be found <a href="https://melat0nin.itch.io">at itch.io</a>.  They're not great but, you know, baby steps.
 
-#### :zzz: What math do I like?
+#### :zzz: What math did I study?
 
-- I studied algebraic topology in grad school which was pretty fun. I love looking at what they're doing with applied topology lately.
-- Working through measure theroy stuff via stats is pretty wild; the proofs take me forever, but it's fun.
-- Pretty much any proof-based math is fun to dive into. If you got some proof-based stuff you dig, I'll check it out.
-  - No one who has claimed to solve Riemann or has a "counterexample" to the Fermat's Last Theorem proof pls
-  - I also don't want you trying to get me to write you an ai program to cheat at blackjack or whatever (this request happens more frequently than you'd think)
+I studied algebraic topology in grad school which was pretty fun.  Lots of categorical stuff that was neat to mess around with.  It's been a few years out, but I'm trying to keep up by looking at what they've been doing with Topological Data Analysis these days.
 
-#### :sweat_drops: I'm currently workin' with travel data, doing some data science / data engineering work.
 
-#### :microphone: talk to me!
+#### :microphone: Talk to me!
 
 - :link: LinkedIn: https://www.linkedin.com/in/james-salvatore-4852b181/
