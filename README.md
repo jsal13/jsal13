@@ -1,10 +1,10 @@
 <h2 align="center">Howdy, I'm James.</h2>
 
 <p align="center">
-  <img src="https://github.com/jsal13/jsal13/blob/master/me_and_ladder.jpg" alt="The Best Picture of me and a ladder">
+  <img src="https://github.com/jsal13/jsal13/blob/master/me.jpg" alt="This was at a starbucks">
 </p>
   
-<p align="center"><i>The best picture of me that also has a ladder in it.</i></p>
+<p align="center"><i>Hangin' out.</i></p>
 
 I'm a Data Scientist / Software Engineer in Chicago.
 
@@ -18,8 +18,3 @@ I'm a Data Scientist / Software Engineer in Chicago.
 #### :zzz: What math did I study?
 
 I studied algebraic topology in grad school which was pretty fun.  Lots of categorical stuff that was neat to mess around with.  It's been a few years out, but I'm trying to keep up by looking at what they've been doing with Topological Data Analysis these days.
-
-
-#### :microphone: Talk to me!
-
-- :link: LinkedIn: https://www.linkedin.com/in/james-salvatore-4852b181/
