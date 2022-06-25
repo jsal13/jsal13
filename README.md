@@ -6,7 +6,7 @@
   
 <p align="center"><i>Hangin' out.</i></p>
 
-I'm a Data Scientist / Software Engineer in Chicago.
+I'm a Machine Learning Engineer in Chicago.
 
 #### :sleeping_bed: What kind'a stuff do I like to work with?
 
