@@ -1,7 +1,7 @@
 <h2 align="center">Howdy, I'm James.</h2>
 
 <p align="center">
-  <img src="https://github.com/jsal13/jsal13/blob/master/sloth_james.jpg" width=200 alt="This is me in a sloth onesie.">
+  <img src="https://github.com/jsal13/jsal13/blob/master/sloth_james.png" width=200 alt="This is me in a sloth onesie.">
 </p>
   
 <p align="center"><i>Being okay.</i></p>
