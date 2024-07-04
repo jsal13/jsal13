@@ -6,7 +6,7 @@
   
 <p align="center"><i>Being okay.</i></p>
 
-I'm a Machine Learning Engineer in Chicago.
+I'm a Data & Machine Learning Engineer in Chicago.
 
 <a href="https://jsalv.com">Here's my personal site</a>.
 
