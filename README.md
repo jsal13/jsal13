@@ -4,6 +4,8 @@
   <img src="https://github.com/jsal13/jsal13/blob/master/james_pixel.png" width=200 alt="These pixels are me.">
 </p>
 
+_This is a picture that I pixelized to make it look like I'm on a monitor from 1991._
+
 **I'm a Data & Machine Learning Engineer in Chicago.**  Big into data, big into math, big into learnin' new things.
 
 - My [personal site](https://jsalv.com) for a little bit more about me.
