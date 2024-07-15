@@ -11,7 +11,9 @@ _This is a picture that I pixelized to make it look like I'm on a monitor from 1
 - My [personal site](https://jsalv.com) for a little bit more about me.
 - A [news aggregation thing](https://jsalv.com/blog/) I am trying out.
 
-![Static Badge](https://img.shields.io/badge/PYTHON_|_sklearn_polars_pandas_|_ruff_mypy_black-blue)
+![Static Badge](https://img.shields.io/badge/python-sklearn_polars_pandas_|_ruff_mypy_black-blue)
 ![Static Badge](https://img.shields.io/badge/AWS-blue)
-![Static Badge](https://img.shields.io/badge/CSHARP_|_unity-blue)
-![Static Badge](https://img.shields.io/badge/VUE-blue)
+![Static Badge](https://img.shields.io/badge/terraform-blue)
+![Static Badge](https://img.shields.io/badge/airflow-blue)
+![Static Badge](https://img.shields.io/badge/csharp-unity-blue)
+![Static Badge](https://img.shields.io/badge/vue-blue)
