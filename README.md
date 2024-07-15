@@ -1,13 +1,16 @@
-<h2 align="center">Howdy, I'm James.</h2>
+# Howdy, I'm James
 
 <p align="center">
-  <img src="https://github.com/jsal13/jsal13/blob/master/sloth_james.png" width=200 alt="This is me in a sloth onesie.">
+  <img src="https://github.com/jsal13/jsal13/blob/master/james_pixel.png" width=200 alt="These pixels are me.">
 </p>
-  
-<p align="center"><i>Being okay.</i></p>
 
-I'm a Data & Machine Learning Engineer in Chicago.
+**I'm a Data & Machine Learning Engineer in Chicago.**  Big into data, big into math, big into learnin' new things.
 
-<a href="https://jsalv.com">Here's my personal site</a>.
+- My [personal site](https://jsalv.com) for a little bit more about me.
+- A [news aggregation thing](https://jsalv.com/blog/) I am trying out.
 
-<b>tl;dr</b>: I've worked with a bunch of data making models, I've built architecture to support data science from ingesting data to monitoring production models, and I've been enjoying doing math-y and machine learn-y stuff.
+![Static Badge](https://img.shields.io/badge/PYTHON_sklearn_polars_pandas-black)
+![Static Badge](https://img.shields.io/badge/ruff_mypy_black-black)
+![Static Badge](https://img.shields.io/badge/AWS-black)
+![Static Badge](https://img.shields.io/badge/CSHARP_unity-black)
+![Static Badge](https://img.shields.io/badge/VUE-black)
